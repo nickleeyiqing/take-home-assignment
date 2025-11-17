@@ -8,7 +8,7 @@ Each task consists of the following.
 # Task 1
  ### AIO Table
 **File: components/Table.tsx**<br/>**
-**-All-in-one table, contains filtering and sorting. <br/>
+-All-in-one table, contains filtering and sorting. <br/>
 -Pagination is a subcomponent<br/>
 -Fully reusable<br/>
 
